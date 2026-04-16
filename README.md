@@ -1,0 +1,1 @@
+# example-accounting-fixed-assets
